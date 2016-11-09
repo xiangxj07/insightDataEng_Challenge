@@ -7,7 +7,7 @@ Note: the query comes in sequentially, every processed query will then be regard
 
 To run the program in Linux environment under bash shell:
 0. Download the paymo_input files (.csv files) from the website address provided, put them in paymo_input folder
-1. Change directory to [path into folder 'digital-wallet-master'] (make sure run.sh is inside current path after cd command)
+1. Change directory to [path into folder 'insightDataEng_Xinjiang_Xiang-master'] (make sure run.sh is inside current path after cd command)
 2. Run the code using: bash run.sh
 3. To check the pre-run outputs, download them from the website adress provided in paymo_output folder.
 
