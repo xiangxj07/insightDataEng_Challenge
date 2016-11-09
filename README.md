@@ -6,8 +6,10 @@ This anti-fraud program checks the relation between two users, based on the degr
 Note: the query comes in sequentially, every processed query will then be regarded as valid transaction regardless of being either trusted or not, and then added to the knowledge base for future queries. 
 
 To run the program in Linux environment under bash shell:
-1. change directory to [path into folder 'digital-wallet-master'] (make sure run.sh is inside current path after cd command)
-2. run the code using: bash run.sh
+0. Download the paymo_input files (.csv files) from the website address provided, put them in paymo_input folder
+1. Change directory to [path into folder 'digital-wallet-master'] (make sure run.sh is inside current path after cd command)
+2. Run the code using: bash run.sh
+3. To check the pre-run outputs, download them from the website adress provided in paymo_output folder.
 
 Orgnization of major files:
 |- run.sh
